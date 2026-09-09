@@ -4,21 +4,23 @@ A personal portfolio and CV webpage built with HTML and CSS as part of the Web P
 
 ## 📌 Project Overview
 
-This project is a single-page web application designed to showcase personal background, education, technical skills, and achievements in an interactive and structured format.
+This project is a single-page web application designed to showcase personal background, education, technical skills, and projects in a structured format.
 
 ### Features
-- **Header Section:** Name, title, contact details, and profile photo.
-- **About Me:** Brief summary.
-- **Education & Experience:** Structured list of academic background and activities.
-- **Skills:** Categorized list of technical and soft skills.
-- **Contact Form/Links:** Links to social media and contact details.
+- **About Me:** Brief summary & profile picture.
+- **Education:** Structured list of academic background.
+- **Toolsets:** Categorized list of frequently used software.
+- **Languages:** List of language spoken.
+- **Interests:** Structured list of field interests.
+- **Portfolio:** Newest featured projects.
+- **Contact:** Links to social media and contact details.
 
 ---
 
 ## 🛠️ Built With
 
 - **HTML5:** Semantic markup structure (`<header>`, `<main>`, `<section>`, `<footer>`).
-- **CSS3:** Custom styling, Flexbox/Grid layouts, and responsive design.
+- **CSS3:** Custom styling and Flexbox/Grid layouts.
 
 ---
 
