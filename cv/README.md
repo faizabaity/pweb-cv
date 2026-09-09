@@ -7,6 +7,7 @@ A personal portfolio and CV webpage built with HTML and CSS as part of the Web P
 This project is a single-page web application designed to showcase personal background, education, technical skills, and projects in a structured format.
 
 ### Features
+
 - **About Me:** Brief summary & profile picture.
 - **Education:** Structured list of academic background.
 - **Toolsets:** Categorized list of frequently used software.
@@ -25,6 +26,7 @@ This project is a single-page web application designed to showcase personal back
 ---
 
 ## 📝 Wireframe (Lo-Fi)
+
 ![Wireframe](<assets/images/Wireframe - 1.png>)
 
 ---
