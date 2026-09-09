@@ -41,6 +41,9 @@ This project is a single-page web application designed to showcase personal back
 │   └── images/         # Profile pictures and graphics
 └── README.md           # Project documentation
 ```
+
+---
+
 ## 🖥️ Live Website
 
 [Fai's Profile](https://faizabaity.github.io/pweb-cv/)
